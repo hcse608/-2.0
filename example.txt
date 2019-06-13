@@ -4,3 +4,4 @@ thi is 3rd line
 thi is bug fix 1
 thi is bug fix 2
 this it new release 1
+this it new release 2
